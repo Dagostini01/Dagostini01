@@ -1,8 +1,6 @@
-### Olá! Eu sou Pedro D'Agostini 👋
+### Heelo! I'm Pedro D'Agostini 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dagostini01&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
-Profissional graduando em Análise e Desenvolvimento de Sistemas e técnico em Informática, com experiência na área, atuando em empresas nacionais de grande porte, destacando-se os segmentos de tecnologia. Participação ativa no gerenciamento de projetos de tecnologia de baixa, média e alta complexidade, realizando a interface direta com stakeholders para o desenvolvimento de novas soluções/funcionalidades e acompanhamento dos cronogramas em todas as etapas. Experiência consolidada em desenvolvimento de sistemas, contando com a utilização das tecnologias relacionadas a backend e frontend. Profissional altamente capacitado para trabalhar em equipe, dinâmico, com iniciativa, facilidade de aprendizado e de bom relacionamento interpessoal, dedicado às funções, focado em resultados e transformação digital. Organizado, responsável e flexível. 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-dagostini/)
 
