@@ -2,9 +2,9 @@
 
 Profissional graduando em Análise e Desenvolvimento de Sistemas e técnico em Informática, com experiência na área, atuando em empresas nacionais de grande porte, destacando-se os segmentos de tecnologia. Participação ativa no gerenciamento de projetos de tecnologia de baixa, média e alta complexidade, realizando a interface direta com stakeholders para o desenvolvimento de novas soluções/funcionalidades e acompanhamento dos cronogramas em todas as etapas. Experiência consolidada em desenvolvimento de sistemas, contando com a utilização das tecnologias relacionadas a backend e frontend. Profissional altamente capacitado para trabalhar em equipe, dinâmico, com iniciativa, facilidade de aprendizado e de bom relacionamento interpessoal, dedicado às funções, focado em resultados e transformação digital. Organizado, responsável e flexível. 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]](https://www.linkedin.com/in/pedro-dagostini/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-dagostini/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]](https://www.instagram.com/devdagostini/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devdagostini/)
 
 ![Pedro Dagostini GitHub stats](https://github-readme-stats.vercel.app/api?username=Dagostini01&show_icons=true&theme=onedark)
 
